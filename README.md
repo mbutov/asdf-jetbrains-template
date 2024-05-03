@@ -14,7 +14,7 @@ TODO replace below
 
 # asdf-jetbrains-PRODUCT [![Build](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml) [![Lint](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml)
 
-[jetbrains-PRODUCT](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT) plugin for the [asdf version manager](https://asdf-vm.com).
+[PRODUCT](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT) plugin for the [asdf version manager](https://asdf-vm.com).
 
 # Contents
 
