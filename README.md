@@ -1,3 +1,13 @@
+TODO remove section below
+
+Template repository for ASDF plugin for a JetBrains product.
+
+# How to use this template
+
+Create a repository from this template.
+Check and edit TODOs.
+See https://github.com/mbutov/asdf-jetbrains-idea as an example.
+
 TODO replace below
 - GITHUB_USER - github username
 - PRODUCT - JetBrains product tool name
