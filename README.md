@@ -2,7 +2,7 @@ TODO replace below
 - GITHUB_USER - github username
 - PRODUCT - JetBrains product tool name
 
-# asdf-jetbrains-<some-product> [![Build](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml) [![Lint](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml)
+# asdf-jetbrains-PRODUCT [![Build](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml) [![Lint](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml)
 
 [jetbrains-PRODUCT](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -40,7 +40,7 @@ asdf install PRODUCT latest
 # Set a version globally (on your ~/.tool-versions file)
 asdf global PRODUCT latest
 
-# Now jetbrains-PRODUCT commands are available
+# Now PRODUCT command is available
 PRODUCT --version
 ```
 
