@@ -1,0 +1,15 @@
+IU - IntelliJ IDEA Ultimate
+IC - IntelliJ IDEA Community
+IE - IntelliJ IDEA Educational
+PS - PhpStorm
+WS - WebStorm
+PY - PyCharm Professional
+PC - PyCharm Community
+PE - PyCharm Educational
+RM - RubyMine
+OC - AppCode
+CL - CLion
+GO - GoLand
+DB - DataGrip
+RD - Rider
+AI - Android Studio
