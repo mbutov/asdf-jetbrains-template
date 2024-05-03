@@ -1,10 +1,10 @@
 TODO replace below
-- GH_USER - github username
+- GITHUB_USER - github username
 - PRODUCT - JetBrains product tool name
 
-# asdf-jetbrains-<some-product> [![Build](https://github.com/GH_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml/badge.svg)](https://github.com/GH_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml) [![Lint](https://github.com/mbutov/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml/badge.svg)](https://github.com/mbutov/asdf-jetbrains-idea/actions/workflows/lint.yml)
+# asdf-jetbrains-<some-product> [![Build](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/build.yml) [![Lint](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml/badge.svg)](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT/actions/workflows/lint.yml)
 
-[jetbrains-PRODUCT](https://github.com/GH_USER/asdf-jetbrains-PRODUCT) plugin for the [asdf version manager](https://asdf-vm.com).
+[jetbrains-PRODUCT](https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT) plugin for the [asdf version manager](https://asdf-vm.com).
 
 # Contents
 
@@ -23,25 +23,25 @@ TODO replace below
 Plugin:
 
 ```shell
-asdf plugin add jetbrains-PRODUCT
+asdf plugin add PRODUCT
 # or
-asdf plugin add jetbrains-PRODUCT https://github.com/GH_USER/asdf-jetbrains-PRODUCT.git
+asdf plugin add PRODUCT https://github.com/GITHUB_USER/asdf-jetbrains-PRODUCT.git
 ```
 
-jetbrains-PRODUCT:
+PRODUCT:
 
 ```shell
 # Show all installable versions
-asdf list-all jetbrains-PRODUCT
+asdf list-all PRODUCT
 
 # Install specific version
-asdf install jetbrains-PRODUCT latest
+asdf install PRODUCT latest
 
 # Set a version globally (on your ~/.tool-versions file)
-asdf global jetbrains-PRODUCT latest
+asdf global PRODUCT latest
 
 # Now jetbrains-PRODUCT commands are available
-idea.sh --version
+PRODUCT --version
 ```
 
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
@@ -55,4 +55,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Maxim Butov](https://github.com/mbutov/)
+See [LICENSE](LICENSE) © [GITHUB_USER](https://github.com/GITHUB_USER/)
